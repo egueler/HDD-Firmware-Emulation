@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # Emulating SAMSUNG HM641JI HDD firmware.
-# !/usr/bin/python
 
 from __future__ import print_function
 from unicorn import *
